@@ -384,3 +384,8 @@ footer .link-group a:hover{
     color: #fff;
     animation: pulse 3s infinite;
 }
+/*bottom footer fixing*/
+html, body {
+    overflow-x: hidden;
+}
+
